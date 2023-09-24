@@ -1,0 +1,21 @@
+- title: Email
+  url: mailto:berrios@evolbio.mpg.de
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/ernestoberriosc
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/ernestoberriosc
+  icon: fab fa-github
+- title: LinkedIn
+  url: https://www.linkedin.com/in/ernesto-berr%C3%ADos-caro-4ba44323a/
+  icon: fab fa-linkedin
+- title: ORCID
+  url: https://orcid.org/my-orcid?orcid=0000-0002-2080-1273
+  icon: ai ai-orcid
+- title: ResearchGate
+  url: https://www.researchgate.net/profile/Ernesto-Berrios-Caro
+  icon: ai ai-researchgate-square
+- title: GoogleScholar
+  url: https://scholar.google.com/citations?hl=en&user=Ik9XZtsAAAAJ&view_op=list_works&authuser=1&sortby=pubdate
+  icon: fab fa-google fa-sm

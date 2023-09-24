@@ -1,52 +1,62 @@
-layout: sidebar
-style: dark
+# Setup
+title: Ernesto Berríos-Caro
+description: Postdoctoral researcher
+url: https://ernestoberriosc.github.io
+avatar: /MPI-photo-Ernesto.jpg
+paginate: 5
+permalink: pretty
+cover_image: /ploen.jpg
 
+# Gems
 plugins:
-  - jekyll-octicons
-  - jekyll-github-metadata
-  - jemoji
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
 
-permalink: /:year/:month/:day/:title/
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - scripts/
+  - not-pure-poole.gemspec
+  - about.md
+  - categories.md
+  - tags.md
 
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "posts"
-    values:
-      layout: "post"
+# Optimize Jekyl SEO Tag
+twitter:
+  username: ernestoberriosc
+  card: summary
+logo: logo.png
+social:
+  name: Ernesto Berríos-Caro
+  links:
+    - https://twitter.com/ernestoberriosc
+    - https://github.com/ernestoberriosc
+google_site_verification: xxxxx
+lang: en
 
-projects:
-  sort_by: pushed
-  # sort_by options:
-  #   - pushed
-  #   - stars
-  limit: 9
-  exclude:
-    archived: false
-    forks: true
-    projects:
-    # - repo-name
+sass:
+  sass_dir: _sass
+  style: :compressed
 
-social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  instagram: ernestoberriosc
-  # keybase: your_username
-  linkedin: ernesto-berr%C3%ADos-caro-4ba44323a/
-  # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  twitter: ernestoberriosc
-  # unsplash: your_username
-  # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+# Options
 
-#topics:
-  #- name: css
-  #  web_url: https://github.com/topics/css
-  #  image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+# Replace this value and uncomment to enable Google Analytics tracking
+# google_analytics: UA-000000-0
+
+# Replace this value and uncomment to enable Disqus
+# disqus: xxxxxx
+
+# Specify the author for blog posts
+author:
+  name: Ernesto Berríos-Caro
+  url: https://github.com/ernestoberriosc
+  email: berrios@evolbio.mpg.de

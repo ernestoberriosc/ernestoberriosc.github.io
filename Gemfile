@@ -1,7 +1,6 @@
-source 'https://rubygems.org'
-gem 'github-pages', group: :jekyll_plugins
-gem "jekyll-github-metadata"
-gem "jekyll-octicons"
-gem "jemoji"
+source "https://rubygems.org"
+gemspec
 
-gem "webrick", "~> 1.7"
+gem 'jekyll-compose', group: [:jekyll_plugins]
+
+gem "webrick", "~> 1.8"
