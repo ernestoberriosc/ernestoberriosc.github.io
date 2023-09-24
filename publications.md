@@ -1,7 +1,7 @@
 ---
 layout: page
 #permalink: /dates/
-title: 
+title: Publications
 math: true
 ---
 

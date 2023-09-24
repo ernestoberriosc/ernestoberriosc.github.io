@@ -1,7 +1,7 @@
 ---
 layout: page
 #permalink: /dates/
-title: 
+title: CV
 ---
 
 ## Research and Education
