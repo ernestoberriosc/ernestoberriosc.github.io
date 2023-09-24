@@ -54,6 +54,8 @@ See Not Pure Poole in action with [the demo site](https://vszhub.github.io/not-p
 - Support for a wide gamut of HTML elements
 - Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
 
+![](https://user-images.githubusercontent.com/221550/110506678-51906280-80cd-11eb-803a-c41984bd9312.png)
+
 ## Installation
 
 You can choose one of the following methods to install Not Pure Poole:
