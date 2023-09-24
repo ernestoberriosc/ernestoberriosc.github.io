@@ -4,9 +4,9 @@
 - title: Twitter
   url: https://twitter.com/ernestoberriosc
   icon: fab fa-twitter
-- title: GitHub
-  url: https://github.com/ernestoberriosc
-  icon: fab fa-github
+#- title: GitHub
+#  url: https://github.com/ernestoberriosc
+#  icon: fab fa-github
 - title: LinkedIn
   url: https://www.linkedin.com/in/ernesto-berr%C3%ADos-caro-4ba44323a/
   icon: fab fa-linkedin
