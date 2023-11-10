@@ -53,4 +53,4 @@ oscillators, vegetation, and optics"](https://repositorio.uchile.cl/handle/2250/
 
 - 2021: **Lecturer**, Universität zu Lübeck, Germany. Lectures on branching processes for course “Mathematical biology in action during the Corona pandemic” (November 2021). Jointly taught by several members of the Max Planck Institute for Evolutionary Biology.
 
-- 2021: **Co-organiser** of workshop “An introduction to branching processes and their applications in evolution and epidemiology” (October 2021) along with the [Stochastic Evolutionary Dynamics](http://web.evolbio.mpg.de/stochdyn/).
+- 2021: **Co-organiser** of workshop “An introduction to branching processes and their applications in evolution and epidemiology” (October 2021) along with the [Stochastic Evolutionary Dynamics](http://web.evolbio.mpg.de/stochdyn/) group.
