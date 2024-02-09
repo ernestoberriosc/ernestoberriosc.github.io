@@ -7,7 +7,7 @@ I am a postdoctoral researcher at the [Max Planck Institute for Evolutionary Bio
 
 [comment]: <> (![image info](./figures/test.png))
 
-![image info](./figures/resistance.gif){: .align-center}
+[comment]: ![image info](./figures/resistance.gif){: .align-center}
 
 [comment]: <> (![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif))
 
