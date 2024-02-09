@@ -42,6 +42,7 @@ oscillators, vegetation, and optics"](https://repositorio.uchile.cl/handle/2250/
 
 ## Other scientific activities
 
+- 2024: **Postdoctoral representative** at the Max Planck Institute for Evolutionary Biology, along with Dr. Kaumudi Prabhakara.
 
 - 2023: **Co-organiser** of the [postdoctoral retreat](https://workshops.evolbio.mpg.de/event/93/) (September 2023) at Max Planck Institute for Evolutionary Biology, Germany.
 
