@@ -7,6 +7,8 @@ math: true
 
 ## Peer-reviewed publications
 
+12. **Faraday kinks connecting parametric waves in magnetic wires**, A.O. Leon, E. Berríos-Caro, A. León, M.G. Clerc. Communications in Nonlinear Science and Numerical Simulation, 2024.
+
 11. **Mutators drive evolution of multi-resistance to antibiotics**, D. R. Gifford, E. Berríos-Caro, C. Joerres, M. Suñé, J.H. Forsyth, A. Bhattacharyya, T. Galla, and C. G. Knight. PLoS Genetics, 2023.
 
 10. **Beyond the adiabatic limit in systems with fast environments: a \\\(\tau\\\)-leaping algorithm**,  E. Berríos-Caro and T. Galla.  Physical Review E, 2021.
