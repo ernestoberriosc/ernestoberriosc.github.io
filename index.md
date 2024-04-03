@@ -1,4 +1,4 @@
 ---
 layout: default
-title: A Bootstrap theme
+title: Ernesto Berríos-Caro
 ---
